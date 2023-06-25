@@ -1,0 +1,161 @@
+{
+   "app_description": {
+      "message": "Blocking wasteful websites, you can preserve your time and experience."
+   },
+   "app_name": {
+      "message": "SiteBlock: Block Websites & Focused Study"
+   },
+   "codehemu_lost": {
+      "message": "Look like you're lost"
+   },
+   "codehemu_not_avaible": {
+      "message": "the page you are looking for not avaible!"
+   },
+   "codehemu_home": {
+      "message": "Go to Home"
+   },
+   "codehemu__block": {
+      "message": "Block Sites"
+   },
+   "codehemu__block_decs": {
+      "message": "Block one or several websites by adding accurate domain name. \u003Cbr/>Enjoy your time without wasted websites."
+   },
+   "codehemu__block_input": {
+      "message": "Enter a web address (ex: google.com)"
+   },
+   "codehemu__cats": {
+      "message": "Block by Categories"
+   },
+   "codehemu__cats_1": {
+      "message": "aggressive"
+   },
+   "codehemu__cats_10": {
+      "message": "politics"
+   },
+   "codehemu__cats_11": {
+      "message": "porn"
+   },
+   "codehemu__cats_12": {
+      "message": "shopping"
+   },
+   "codehemu__cats_13": {
+      "message": "socialnet"
+   },
+   "codehemu__cats_14": {
+      "message": "spyware"
+   },
+   "codehemu__cats_15": {
+      "message": "violence"
+   },
+   "codehemu__cats_16": {
+      "message": "weapons"
+   },
+   "codehemu__cats_2": {
+      "message": "alcohol"
+   },
+   "codehemu__cats_3": {
+      "message": "dating"
+   },
+   "codehemu__cats_4": {
+      "message": "downloads"
+   },
+   "codehemu__cats_5": {
+      "message": "drugs"
+   },
+   "codehemu__cats_6": {
+      "message": "gamble"
+   },
+   "codehemu__cats_7": {
+      "message": "hacking"
+   },
+   "codehemu__cats_8": {
+      "message": "movies"
+   },
+   "codehemu__cats_9": {
+      "message": "music"
+   },
+   "codehemu__cats_btn_save": {
+      "message": "Save"
+   },
+   "codehemu__cats_desc": {
+      "message": "Choose domain categories that won't be shown during your web surfing."
+   },
+   "codehemu__cats_title": {
+      "message": "Block Categories"
+   },
+   "codehemu__schedule": {
+      "message": "Blocking Schedule"
+   },
+   "codehemu__schedule_desc": {
+      "message": "Apply individual blocking schedule for each websites \u003Cbr/>or set up schedule for all blocked domains at once."
+   },
+   "codehemu__schedule_input": {
+      "message": "Enter a web address (ex: google.com)"
+   },
+   "codehemu__schedule_left": {
+      "message": "Set Up Blocking Schedule"
+   },
+   "codehemu__schedule_left_add_time": {
+      "message": "Add Interval"
+   },
+   "codehemu__schedule_left_btn_blocked": {
+      "message": "Apply for all blocked"
+   },
+   "codehemu__schedule_left_btn_domain": {
+      "message": "Apply for this domain"
+   },
+   "codehemu__schedule_left_days": {
+      "message": "SELECTED DAYS"
+   },
+   "codehemu__schedule_left_times": {
+      "message": "SET TIMES"
+   },
+   "codehemu__schedule_left_to": {
+      "message": "to"
+   },
+   "codehemu__schedule_title": {
+      "message": "Working Schedule"
+   },
+   "codehemu__white": {
+      "message": "Site White List"
+   },
+   "codehemu__white_desc": {
+      "message": "Sites from this list avoid all blocking settings."
+   },
+   "codehemu__white_input": {
+      "message": "Input white site"
+   },
+   "codehemu__white_title": {
+      "message": "White Listed Sites"
+   },
+   "codehemu__words": {
+      "message": "Block by Words"
+   },
+   "codehemu__words_desc": {
+      "message": "Add separate words or phrase \u003Cbr/>to block all domains contain related content."
+   },
+   "codehemu__words_input": {
+      "message": "Input a word or a phrase"
+   },
+   "codehemu__words_title": {
+      "message": "Blocking by Words"
+   },
+   "codehemu_btn_block": {
+      "message": "Block this site"
+   },
+   "codehemu_btn_manage": {
+      "message": "Edit blocked sites"
+   },
+   "codehemu_label_rate": {
+      "message": "Please Rate Us!"
+   },
+   "codehemu_not_avail": {
+      "message": "This site isn't available for blocking"
+   },
+   "redirect_message": {
+      "message": "This site is blocked. Don't try to change it!"
+   },
+   "redirect_title": {
+      "message": "Site Blocked"
+   }
+}

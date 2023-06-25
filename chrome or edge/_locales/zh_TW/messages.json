@@ -1,0 +1,158 @@
+{
+   "app_description": {
+      "message": "阻止浪費的網站，您可以節省時間和體驗。"
+   },
+   "app_name": {
+      "message": "站點阻止：阻止網站和重點研究"
+   },
+   "codehemu_lost": {
+      "message": "看起來你迷路了"
+   },
+   "codehemu_not_avaible": {
+      "message": "您要查找的頁面不可用！"
+   },
+   "codehemu_home": {
+      "message": "回家"
+   },
+   "codehemu__block": {
+      "message": "封鎖網站"
+   },
+   "codehemu__block_decs": {
+      "message": "通過添加準確的域名來阻止一個或多個網站。 \u003Cbr/>享受您的時間而不會浪費網站。"
+   },
+   "codehemu__block_input": {
+      "message": "輸入網址（例如：google.com）"
+   },
+   "codehemu__cats": {
+      "message": "按類別阻止"
+   },
+   "codehemu__cats_1": {
+      "message": "侵略性"
+   },
+   "codehemu__cats_10": {
+      "message": "政治"
+   },
+   "codehemu__cats_11": {
+      "message": "A片"
+   },
+   "codehemu__cats_12": {
+      "message": "購物"
+   },
+   "codehemu__cats_13": {
+      "message": "socialnet"
+   },
+   "codehemu__cats_14": {
+      "message": "間諜軟件"
+   },
+   "codehemu__cats_15": {
+      "message": "暴力"
+   },
+   "codehemu__cats_16": {
+      "message": "武器"
+   },
+   "codehemu__cats_2": {
+      "message": "醇"
+   },
+   "codehemu__cats_3": {
+      "message": "約會"
+   },
+   "codehemu__cats_4": {
+      "message": "下載"
+   },
+   "codehemu__cats_5": {
+      "message": "毒品"
+   },
+   "codehemu__cats_6": {
+      "message": "賭"
+   },
+   "codehemu__cats_7": {
+      "message": "黑客"
+   },
+   "codehemu__cats_8": {
+      "message": "電影"
+   },
+   "codehemu__cats_9": {
+      "message": "音樂"
+   },
+   "codehemu__cats_btn_save": {
+      "message": "救"
+   },
+   "codehemu__cats_desc": {
+      "message": "選擇在您的網絡衝浪期間不會顯示的域類別。"
+   },
+   "codehemu__cats_title": {
+      "message": "塊類別"
+   },
+   "codehemu__schedule": {
+      "message": "封鎖時間表"
+   },
+   "codehemu__schedule_desc": {
+      "message": "為每個網站應用單獨的屏蔽時間表\u003Cbr/>或同時為所有被阻止的域設置時間表。"
+   },
+   "codehemu__schedule_left": {
+      "message": "設定封鎖時間表"
+   },
+   "codehemu__schedule_left_add_time": {
+      "message": "添加間隔"
+   },
+   "codehemu__schedule_left_btn_blocked": {
+      "message": "申請所有被阻止"
+   },
+   "codehemu__schedule_left_btn_domain": {
+      "message": "申請這個域名"
+   },
+   "codehemu__schedule_left_days": {
+      "message": "選擇的日子"
+   },
+   "codehemu__schedule_left_times": {
+      "message": "設定時間"
+   },
+   "codehemu__schedule_left_to": {
+      "message": "至"
+   },
+   "codehemu__schedule_title": {
+      "message": "工作時間表"
+   },
+   "codehemu__white": {
+      "message": "網站白名單"
+   },
+   "codehemu__white_desc": {
+      "message": "此列表中的站點避免所有阻止設置。"
+   },
+   "codehemu__white_input": {
+      "message": "輸入白色網站"
+   },
+   "codehemu__white_title": {
+      "message": "白名單網站"
+   },
+   "codehemu__words": {
+      "message": "逐字封鎖"
+   },
+   "codehemu__words_desc": {
+      "message": "添加單獨的單詞或短語\u003Cbr/>阻止所有包含相關內容的域。"
+   },
+   "codehemu__words_input": {
+      "message": "輸入單詞或短語"
+   },
+   "codehemu__words_title": {
+      "message": "言語阻擋"
+   },
+   "codehemu_btn_block": {
+      "message": "封鎖目前的網站"
+   },
+   "codehemu_btn_manage": {
+      "message": "管理被阻止的網站"
+   },
+   "codehemu_label_rate": {
+      "message": "請給我們評分！"
+   },
+   "codehemu_not_avail": {
+      "message": "該網站不可阻止"
+   },
+   "redirect_message": {
+      "message": "這個網站被封鎖了。不要試圖改變它！"
+   },
+   "redirect_title": {
+      "message": "網站被封鎖"
+   }
+}

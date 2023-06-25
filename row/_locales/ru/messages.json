@@ -1,0 +1,158 @@
+{
+   "app_description": {
+      "message": "Блокируя бесполезные веб-сайты, вы можете сохранить свое время и опыт."
+   },
+   "app_name": {
+      "message": "Блокировка сайта"
+   },
+   "codehemu_lost": {
+      "message": "Похоже, ты потерялся"
+   },
+   "codehemu_not_avaible": {
+      "message": "страница, которую вы ищете, недоступна!"
+   },
+   "codehemu_home": {
+      "message": "Иди домой"
+   },
+   "codehemu__block": {
+      "message": "Блокировать сайты"
+   },
+   "codehemu__block_decs": {
+      "message": "Заблокируйте один или несколько веб-сайтов, добавив точное доменное имя. \u003Cbr/> Наслаждайтесь своим временем без потраченных впустую вебсайтов."
+   },
+   "codehemu__block_input": {
+      "message": "Введите веб-адрес (например, google.com)"
+   },
+   "codehemu__cats": {
+      "message": "Блокировать по категориям"
+   },
+   "codehemu__cats_1": {
+      "message": "агрессивный"
+   },
+   "codehemu__cats_10": {
+      "message": "политика"
+   },
+   "codehemu__cats_11": {
+      "message": "порно"
+   },
+   "codehemu__cats_12": {
+      "message": "поход по магазинам"
+   },
+   "codehemu__cats_13": {
+      "message": "SocialNet"
+   },
+   "codehemu__cats_14": {
+      "message": "шпионское"
+   },
+   "codehemu__cats_15": {
+      "message": "насилие"
+   },
+   "codehemu__cats_16": {
+      "message": "оружие"
+   },
+   "codehemu__cats_2": {
+      "message": "алкоголь"
+   },
+   "codehemu__cats_3": {
+      "message": "знакомства"
+   },
+   "codehemu__cats_4": {
+      "message": "загрузок"
+   },
+   "codehemu__cats_5": {
+      "message": "наркотики"
+   },
+   "codehemu__cats_6": {
+      "message": "авантюра"
+   },
+   "codehemu__cats_7": {
+      "message": "взлом"
+   },
+   "codehemu__cats_8": {
+      "message": "фильмы"
+   },
+   "codehemu__cats_9": {
+      "message": "Музыка"
+   },
+   "codehemu__cats_btn_save": {
+      "message": "Сохранить"
+   },
+   "codehemu__cats_desc": {
+      "message": "Выберите категории доменов, которые не будут отображаться во время вашего веб-серфинга."
+   },
+   "codehemu__cats_title": {
+      "message": "Блокировать Категории"
+   },
+   "codehemu__schedule": {
+      "message": "График блокировки"
+   },
+   "codehemu__schedule_desc": {
+      "message": "Применить индивидуальный график блокировки для каждого сайта \u003Cbr/> или настроить расписание для всех заблокированных доменов одновременно."
+   },
+   "codehemu__schedule_left": {
+      "message": "Настройка расписания блокировки"
+   },
+   "codehemu__schedule_left_add_time": {
+      "message": "Добавить интервал"
+   },
+   "codehemu__schedule_left_btn_blocked": {
+      "message": "Подать заявку на все заблокированные"
+   },
+   "codehemu__schedule_left_btn_domain": {
+      "message": "Подать заявку на этот домен"
+   },
+   "codehemu__schedule_left_days": {
+      "message": "ИЗБРАННЫЕ ДНИ"
+   },
+   "codehemu__schedule_left_times": {
+      "message": "УСТАНАВЛИВАЙТЕ ВРЕМЕНИ"
+   },
+   "codehemu__schedule_left_to": {
+      "message": "в"
+   },
+   "codehemu__schedule_title": {
+      "message": "Рабочее расписание"
+   },
+   "codehemu__white": {
+      "message": "Белый список сайтов"
+   },
+   "codehemu__white_desc": {
+      "message": "Сайты из этого списка избегают всех настроек блокировки."
+   },
+   "codehemu__white_input": {
+      "message": "Введите белый сайт"
+   },
+   "codehemu__white_title": {
+      "message": "Белые списки сайтов"
+   },
+   "codehemu__words": {
+      "message": "Блок по словам"
+   },
+   "codehemu__words_desc": {
+      "message": "Добавить отдельные слова или фразы \u003Cbr/> заблокировать все домены, содержащие связанный контент."
+   },
+   "codehemu__words_input": {
+      "message": "Введите слово или фразу"
+   },
+   "codehemu__words_title": {
+      "message": "Блокировка словами"
+   },
+   "codehemu_btn_block": {
+      "message": "Блокировать текущий сайт"
+   },
+   "codehemu_btn_manage": {
+      "message": "Управление заблокированными сайтами"
+   },
+   "codehemu_label_rate": {
+      "message": "Пожалуйста, оцените нас!"
+   },
+   "codehemu_not_avail": {
+      "message": "Этот сайт не доступен для блокировки"
+   },
+   "redirect_message": {
+      "message": "Этот сайт заблокирован. Не пытайтесь изменить это!"
+   },
+   "redirect_title": {
+      "message": "Сайт заблокирован"
+   }
+}

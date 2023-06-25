@@ -1,0 +1,158 @@
+{
+   "app_description": {
+      "message": "無駄な Web サイトをブロックすることで、時間と経験を節約できます。"
+   },
+   "app_name": {
+      "message": "サイトブロック: ウェブサイトのブロックと集中的な調査"
+   },
+   "codehemu_lost": {
+      "message": "迷っているように見えます"
+   },
+   "codehemu_not_avaible": {
+      "message": "お探しのページは見つかりません!"
+   },
+   "codehemu_home": {
+      "message": "ホームへ行く"
+   },
+   "codehemu__block": {
+      "message": "ブロックサイト"
+   },
+   "codehemu__block_decs": {
+      "message": "正確なドメイン名を追加して、1つまたは複数のWebサイトをブロックします。 \u003Cbr/>ウェブサイトを無駄にすることなく時間を楽しんでください。"
+   },
+   "codehemu__block_input": {
+      "message": "Webアドレスを入力します（例：google.com）"
+   },
+   "codehemu__cats": {
+      "message": "カテゴリ別にブロック"
+   },
+   "codehemu__cats_1": {
+      "message": "攻撃的"
+   },
+   "codehemu__cats_10": {
+      "message": "政治"
+   },
+   "codehemu__cats_11": {
+      "message": "ポルノ"
+   },
+   "codehemu__cats_12": {
+      "message": "ショッピング"
+   },
+   "codehemu__cats_13": {
+      "message": "ソーシャルネット"
+   },
+   "codehemu__cats_14": {
+      "message": "スパイウェア"
+   },
+   "codehemu__cats_15": {
+      "message": "暴力"
+   },
+   "codehemu__cats_16": {
+      "message": "兵器"
+   },
+   "codehemu__cats_2": {
+      "message": "アルコール"
+   },
+   "codehemu__cats_3": {
+      "message": "デート"
+   },
+   "codehemu__cats_4": {
+      "message": "ダウンロード"
+   },
+   "codehemu__cats_5": {
+      "message": "薬物"
+   },
+   "codehemu__cats_6": {
+      "message": "ギャンブル"
+   },
+   "codehemu__cats_7": {
+      "message": "ハッキング"
+   },
+   "codehemu__cats_8": {
+      "message": "映画"
+   },
+   "codehemu__cats_9": {
+      "message": "音楽"
+   },
+   "codehemu__cats_btn_save": {
+      "message": "セーブ"
+   },
+   "codehemu__cats_desc": {
+      "message": "Webサーフィン中に表示されないドメインカテゴリを選択します。"
+   },
+   "codehemu__cats_title": {
+      "message": "ブロックカテゴリ"
+   },
+   "codehemu__schedule": {
+      "message": "ブロッキングスケジュール"
+   },
+   "codehemu__schedule_desc": {
+      "message": "各Webサイトに個別のブロックスケジュールを適用する\u003Cbr/>または、ブロックされたすべてのドメインのスケジュールを一度に設定します。"
+   },
+   "codehemu__schedule_left": {
+      "message": "ブロックスケジュールを設定する"
+   },
+   "codehemu__schedule_left_add_time": {
+      "message": "間隔を追加"
+   },
+   "codehemu__schedule_left_btn_blocked": {
+      "message": "ブロックされたすべてに適用"
+   },
+   "codehemu__schedule_left_btn_domain": {
+      "message": "このドメインに申し込む"
+   },
+   "codehemu__schedule_left_days": {
+      "message": "選択された日"
+   },
+   "codehemu__schedule_left_times": {
+      "message": "時間を設定"
+   },
+   "codehemu__schedule_left_to": {
+      "message": "に"
+   },
+   "codehemu__schedule_title": {
+      "message": "作業スケジュール"
+   },
+   "codehemu__white": {
+      "message": "サイトホワイトリスト"
+   },
+   "codehemu__white_desc": {
+      "message": "このリストのサイトでは、すべてのブロック設定が回避されます。"
+   },
+   "codehemu__white_input": {
+      "message": "入力ホワイトサイト"
+   },
+   "codehemu__white_title": {
+      "message": "ホワイトリストサイト"
+   },
+   "codehemu__words": {
+      "message": "言葉でブロック"
+   },
+   "codehemu__words_desc": {
+      "message": "個別の単語またはフレーズを追加する\u003Cbr/>関連するコンテンツを含むすべてのドメインをブロックします。"
+   },
+   "codehemu__words_input": {
+      "message": "単語またはフレーズを入力してください"
+   },
+   "codehemu__words_title": {
+      "message": "単語によるブロック"
+   },
+   "codehemu_btn_block": {
+      "message": "現在のサイトをブロック"
+   },
+   "codehemu_btn_manage": {
+      "message": "ブロックされたサイトを管理する"
+   },
+   "codehemu_label_rate": {
+      "message": "評価してください！"
+   },
+   "codehemu_not_avail": {
+      "message": "このサイトはブロックできません"
+   },
+   "redirect_message": {
+      "message": "このサイトはブロックされています。変更しようとしないでください！"
+   },
+   "redirect_title": {
+      "message": "ブロックされたサイト"
+   }
+}

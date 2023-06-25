@@ -1,0 +1,389 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 332px;
+  height: 555px;
+  font-size: 81.25%;
+}
+
+.codehemu1 {
+    color: transparent;
+    width: 100%;
+    height: 40px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px 0px;
+    background-color: rgb(255, 255, 255);
+    padding: 8px 14px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.codehemu1000{
+    margin-top: 60px;
+    width: 100%;
+}
+.codehemu1001{
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    height: 100%;
+    width: 100%;
+    padding: 0px 24px 24px;
+    box-sizing: border-box;
+    position: relative;
+}
+.codehemu1002{
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    row-gap: 12px;
+}
+.codehemu1003{
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 12px 24px;
+    transition: background-color 0.3s linear 0s;
+    background-color: rgb(60, 193, 150);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    -webkit-box-pack: center;
+    justify-content: center;
+    line-height: 16px;
+    max-height: 40px;
+    white-space: nowrap;
+}
+.codehemu1003:hover{
+    background-color: #c13c3c;
+}
+.codehemu1004:hover{
+    background-color: #3d5ee9;
+    color: white;
+}
+.codehemu1004{
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 12px 24px;
+    transition: background-color 0.3s linear 0s;
+    background-color: rgb(238, 238, 238);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(97, 97, 97);
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    -webkit-box-pack: center;
+    justify-content: center;
+    max-height: 40px;
+    white-space: nowrap;
+}
+.codehemu1005{
+    position: absolute;
+    bottom: 35px;
+    left: 12px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 12px;
+    background-color: rgb(229, 240, 255);
+    width: 308px;
+    padding: 12px 28px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+.codehemu1005:hover{
+    background-color: #c5dbfa;
+}
+.codehemu1006{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(38, 38, 38);
+}
+.codehemu1007{
+    font-size: 11px;
+    text-align: center;
+    color: rgb(115, 115, 115);
+}
+.codehemu1008{
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+.codehemu2 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.codehemu3 {
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+.codehemu4 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.codehemu100{
+    height: 200px;
+}
+.codehemu5 {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    transition: opacity 0.3s linear 0s;
+    border-radius: 12px;
+}
+
+.codehemu6 {
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    transition: opacity 0.3s linear 0s;
+    border-radius: 8px;
+    margin-left: 8px;
+}
+
+.codehemu7 {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.codehemu8 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.codehemu89 {
+    height: 70px;
+    width: 100%;
+    background: rgb(219, 222, 228);
+}
+.codehemu9 {
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px 0px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: 11px center;
+    background-size: 16px;
+    margin-bottom: 18px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: -19px;
+}
+
+.codehemu404 {
+    display: none;
+}
+.not_img{
+    display: none;
+    width: 16px;
+    height: 16px;
+    text-indent: -10000px;
+    background-color: rgb(188 188 188);
+}
+.codehemu501{
+    height: 100%;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -20px;
+}
+.codehemu10 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    height: 24px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(38, 38, 38);
+}
+.codehemu44{
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 12px;
+}
+.codehemu213 {
+    width: 16px;
+    height: 16px;
+    text-indent: -10000px;
+    background-color: rgb(255, 255, 255);
+}
+.container_body{
+  padding: 8px 16px;
+  text-align: center;
+  background-color: white;
+  font-size: 81.25%;
+}
+
+.page_404{ 
+    padding:0px 0; background:#fff; font-family: 'Arvo', serif;
+}
+
+.four_zero_four_bg h1{
+  font-size:80px;
+}
+ 
+.four_zero_four_bg h3{
+    font-size:80px;
+}
+             
+.link_404{          
+    color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.contant_box_404{ 
+    margin-top: -40px;
+}
+
+.codehemu1014{
+    margin-top: -20px;
+}
+
+.setting {
+  transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.setting:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+.switch-input {
+  display: none;
+}
+.switch-label {
+  font-size: 14px;
+  position: relative;
+  display: block;
+  cursor: pointer;
+  font-weight: 500;
+  text-align: left;
+  padding: 16px 0 16px 44px;
+  margin-left: 14px;
+  user-select: none;
+}
+
+.switch-label:before,
+.switch-label:after {
+  content: "";
+  position: absolute;
+  margin: 0;
+  outline: 0;
+  top: 50%;
+  -ms-transform: translate(0, -50%);
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.switch-label:before {
+  left: 1px;
+  width: 34px;
+  height: 14px;
+  background-color: #9e9e9e;
+  border-radius: 8px;
+}
+.switch-label:after {
+  left: 0;
+  width: 20px;
+  height: 20px;
+  background-color: #fafafa;
+  border-radius: 50%;
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.14),
+    0 2px 2px 0 rgba(0, 0, 0, 0.098), 0 1px 5px 0 rgba(0, 0, 0, 0.084);
+}
+.switch-label .toggle--on {
+  display: none;
+}
+.switch-label .toggle--off {
+  display: inline-block;
+}
+.switch-input:checked + .switch-label:before {
+  background-color: #b5d5ff;
+}
+.switch-input:checked + .switch-label:after {
+  background-color: #1977f3;
+  -ms-transform: translate(80%, -50%);
+  -webkit-transform: translate(80%, -50%);
+  transform: translate(80%, -50%);
+}
+.switch-input:checked + .switch-label .toggle--on {
+  display: inline-block;
+}
+.switch-input:checked + .switch-label .toggle--off {
+  display: none;
+}
+.teaser_codehemu {
+    display: block;
+    height: 100px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.teaser .five-stars {
+    color: #efcb61;
+    font-size: 43px;
+    line-height: 22px;
+}
+.codehemu1003:disabled, .codehemu1003[disabled] {
+    background: #c0c0c0 !important;
+    cursor: not-allowed !important;
+}
+

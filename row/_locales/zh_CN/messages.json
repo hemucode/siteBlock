@@ -1,0 +1,158 @@
+{
+   "app_description": {
+      "message": "阻止浪费的网站，您可以节省时间和体验。"
+   },
+   "app_name": {
+      "message": "站点阻止：阻止网站和重点研究"
+   },
+   "codehemu_lost": {
+      "message": "看起来你迷路了"
+   },
+   "codehemu_not_avaible": {
+      "message": "您要查找的页面不可用！"
+   },
+   "codehemu_home": {
+      "message": "回家"
+   },
+   "codehemu__block": {
+      "message": "封锁网站"
+   },
+   "codehemu__block_decs": {
+      "message": "通过添加准确的域名来阻止一个或多个网站。 \u003Cbr/>享受您的时间而不会浪费网站。"
+   },
+   "codehemu__block_input": {
+      "message": "输入网址（例如：google.com）"
+   },
+   "codehemu__cats": {
+      "message": "按类别阻止"
+   },
+   "codehemu__cats_1": {
+      "message": "侵略性"
+   },
+   "codehemu__cats_10": {
+      "message": "政治"
+   },
+   "codehemu__cats_11": {
+      "message": "A片"
+   },
+   "codehemu__cats_12": {
+      "message": "购物"
+   },
+   "codehemu__cats_13": {
+      "message": "socialnet"
+   },
+   "codehemu__cats_14": {
+      "message": "间谍软件"
+   },
+   "codehemu__cats_15": {
+      "message": "暴力"
+   },
+   "codehemu__cats_16": {
+      "message": "武器"
+   },
+   "codehemu__cats_2": {
+      "message": "醇"
+   },
+   "codehemu__cats_3": {
+      "message": "约会"
+   },
+   "codehemu__cats_4": {
+      "message": "下载"
+   },
+   "codehemu__cats_5": {
+      "message": "毒品"
+   },
+   "codehemu__cats_6": {
+      "message": "赌"
+   },
+   "codehemu__cats_7": {
+      "message": "黑客"
+   },
+   "codehemu__cats_8": {
+      "message": "电影"
+   },
+   "codehemu__cats_9": {
+      "message": "音乐"
+   },
+   "codehemu__cats_btn_save": {
+      "message": "救"
+   },
+   "codehemu__cats_desc": {
+      "message": "选择在您的网络冲浪期间不会显示的域类别。"
+   },
+   "codehemu__cats_title": {
+      "message": "块类别"
+   },
+   "codehemu__schedule": {
+      "message": "封锁时间表"
+   },
+   "codehemu__schedule_desc": {
+      "message": "为每个网站应用单独的屏蔽时间表\u003Cbr/>或同时为所有被阻止的域设置时间表。"
+   },
+   "codehemu__schedule_left": {
+      "message": "设定封锁时间表"
+   },
+   "codehemu__schedule_left_add_time": {
+      "message": "添加间隔"
+   },
+   "codehemu__schedule_left_btn_blocked": {
+      "message": "申请所有被阻止"
+   },
+   "codehemu__schedule_left_btn_domain": {
+      "message": "申请这个域名"
+   },
+   "codehemu__schedule_left_days": {
+      "message": "选择的日子"
+   },
+   "codehemu__schedule_left_times": {
+      "message": "设定时间"
+   },
+   "codehemu__schedule_left_to": {
+      "message": "至"
+   },
+   "codehemu__schedule_title": {
+      "message": "工作时间表"
+   },
+   "codehemu__white": {
+      "message": "网站白名单"
+   },
+   "codehemu__white_desc": {
+      "message": "此列表中的站点避免所有阻止设置。"
+   },
+   "codehemu__white_input": {
+      "message": "输入白色网站"
+   },
+   "codehemu__white_title": {
+      "message": "白名单网站"
+   },
+   "codehemu__words": {
+      "message": "逐字封锁"
+   },
+   "codehemu__words_desc": {
+      "message": "添加单独的单词或短语\u003Cbr/>阻止所有包含相关内容的域。"
+   },
+   "codehemu__words_input": {
+      "message": "输入单词或短语"
+   },
+   "codehemu__words_title": {
+      "message": "言语阻挡"
+   },
+   "codehemu_btn_block": {
+      "message": "封锁目前的网站"
+   },
+   "codehemu_btn_manage": {
+      "message": "管理被阻止的网站"
+   },
+   "codehemu_label_rate": {
+      "message": "请给我们评分！"
+   },
+   "codehemu_not_avail": {
+      "message": "该网站不可阻止"
+   },
+   "redirect_message": {
+      "message": "这个网站被封锁了。不要试图改变它！"
+   },
+   "redirect_title": {
+      "message": "网站被封锁"
+   }
+}
